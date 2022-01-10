@@ -1,3 +1,6 @@
+Оригинальный репозиторий
+https://github.com/irony-rust/amq
+
 # Actix MQ frameworkvir
 [![Build Status](https://travis-ci.org/irony-rust/amq.svg?branch=master)](https://travis-ci.org/irony-rust/amq)
 [![codecov](https://codecov.io/gh/irony-rust/amq/branch/master/graph/badge.svg)](https://codecov.io/gh/irony-rust/amq)
@@ -5,6 +8,9 @@
 Actix MQ is Rust framework developed for efficient and fast communication
 via MQ protocols with various security options. Based on Rust Actix library, and implement actor-based
 model abd Sodiuoxide library.
+
+Actor framework for Rust.
+https://github.com/actix/actix
 
 The network communication implement 1-rank model client-server. 
 
