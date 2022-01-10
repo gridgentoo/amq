@@ -1,5 +1,5 @@
-Оригинальный репозиторий
-https://github.com/irony-rust/amq
+Оригинальный репозиторий.  
+https://github.com/irony-rust/amq.  
 
 # Actix MQ frameworkvir
 [![Build Status](https://travis-ci.org/irony-rust/amq.svg?branch=master)](https://travis-ci.org/irony-rust/amq)
